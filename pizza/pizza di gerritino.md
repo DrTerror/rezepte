@@ -17,7 +17,7 @@ Komplette Dauer ca. 2 Tage
 
 ## Hauptteig
 
-  * >600  g    Poolish
+  * 640~  g    Poolish
   *  600  g    Weichweizenmehl
   *  250 ml    Wasser
   *   20  g    Salz
