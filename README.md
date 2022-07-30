@@ -2,6 +2,6 @@
 
 ## pizzaaaaaaha
 
-  [pizza di gerritino](pizza/pizza%20di%20gerritino.md)
+  [pizza di gerritino](pizza/pizza_di_gerritino.md)
 
 ## ...
