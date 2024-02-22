@@ -1,6 +1,6 @@
 # Pizza di Gerritino
 
-Teig für ca. 5-6 Pizzen.
+Teig fÃ¼r ca. 5-6 Pizzen.
 
 Komplette Dauer ca. 2 Tage
 
@@ -15,8 +15,8 @@ Komplette Dauer ca. 2 Tage
 |         | 20 g      | Salz                                         |
 |         | 10 g      | Zucker                                       |
 |         | 4 g       | frische Hefe (sonst 1/2 Packung Trockenhefe) |
-|         | 50-100 g  | Weichweizengrieß                             |
-|         | 2-4 EL    | Olivenöl (ca 40-50 g) [optional]             |
+|         | 50-100 g  | WeichweizengrieÃŸ                             |
+|         | 2-4 EL    | OlivenÃ¶l (ca 40-50 g) [optional]             |
 
 
 ## Poolish (Vorteig/Ansatz)
@@ -27,11 +27,11 @@ Komplette Dauer ca. 2 Tage
   *  10  g    Zucker
   *   4  g    Hefe
 
-  1. Hefe im lauwarmen Wasser unter Rühren auflösen.
-  1. Zucker und Backmalz in diesen Ansatz geben und mit einem Schneebesen glatt rühren.
-  1. Portionsweise das Mehl hinzugeben und immer wieder glatt rühren um Klumpen zu vermeiden.
-  1. 10-15 min (mit der Küchenmaschine) den Ansatz rühren.
-  1. Erst 4 h an einer warmen Stelle gehen lassen, dann noch min. 20 h kühl lagern.
+  1. Hefe im lauwarmen Wasser unter RÃ¼hren auflÃ¶sen.
+  1. Zucker und Backmalz in diesen Ansatz geben und mit einem Schneebesen glatt rÃ¼hren.
+  1. Portionsweise das Mehl hinzugeben und immer wieder glatt rÃ¼hren um Klumpen zu vermeiden.
+  1. 10-15 min (mit der KÃ¼chenmaschine) den Ansatz rÃ¼hren.
+  1. Erst 4 h an einer warmen Stelle gehen lassen, dann noch min. 20 h kÃ¼hl lagern.
 
 
 ## Hauptteig
@@ -40,22 +40,22 @@ Komplette Dauer ca. 2 Tage
   * 600  g    Weichweizenmehl
   * 250 ml    Wasser
   *  20  g    Salz
-  * 2-4 EL Olivenöl
+  * 2-4 EL OlivenÃ¶l
 
-  1. Salz im Wasser auflösen.
-  1. Portionsweise das Mehl hinzugeben und immer wieder glatt rühren um Klumpen zu vermeiden.
+  1. Salz im Wasser auflÃ¶sen.
+  1. Portionsweise das Mehl hinzugeben und immer wieder glatt rÃ¼hren um Klumpen zu vermeiden.
   1. Beide Teige zusammen kneten.
   1. Alles zwischen 5 und 24 h gehen lassen.
-  1. 2 h vor der Weiterverarbeitung aus dem Kühlschrank nehmen. 
-  1. 5-6 Teiglinge (ohne weiteres Mehl mit geölten Hände) formen.
+  1. 2 h vor der Weiterverarbeitung aus dem KÃ¼hlschrank nehmen. 
+  1. 5-6 Teiglinge mit ca. 200-250 g (ohne weiteres Mehl mit geÃ¶lten HÃ¤nde) formen.
   1. Diese 30-60 min gehen lassen.
 
 
 ## Ausrollen
 
-Teiglinge in Weichweizengrieß und dem restlichen Mehl ausrollen.
+Teiglinge in WeichweizengrieÃŸ und dem restlichen Mehl ausrollen.
 
-    Tipp: Leicht plattdrücken und auf dem Unterarm den Teig "ausschlagen".
+    Tipp: Leicht plattdrÃ¼cken und auf dem Unterarm den Teig "ausschlagen".
 
 
 ## Belegen
@@ -65,8 +65,8 @@ Teiglinge in Weichweizengrieß und dem restlichen Mehl ausrollen.
 
 ## Backen
 
-  * Wenn vorhanden, den Pizzastein ca. 45 min vorheizen (ca. 200-250 °C).
-  * Pizzen bei hoher Temperatur (250-380 °C) für 5-10 min. backen.
+  * Wenn vorhanden, den Pizzastein ca. 45 min vorheizen (ca. 200-250 Â°C).
+  * Pizzen bei hoher Temperatur (250-380 Â°C) fÃ¼r 5-10 min. backen.
 
 
 ***Buon appetito***
